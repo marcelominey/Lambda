@@ -1,0 +1,10 @@
+C:\Users\22386773809\backend\Lambda\bin\Debug\netcoreapp2.0\Lambda.deps.json
+C:\Users\22386773809\backend\Lambda\bin\Debug\netcoreapp2.0\Lambda.runtimeconfig.json
+C:\Users\22386773809\backend\Lambda\bin\Debug\netcoreapp2.0\Lambda.runtimeconfig.dev.json
+C:\Users\22386773809\backend\Lambda\bin\Debug\netcoreapp2.0\Lambda.dll
+C:\Users\22386773809\backend\Lambda\bin\Debug\netcoreapp2.0\Lambda.pdb
+C:\Users\22386773809\backend\Lambda\obj\Debug\netcoreapp2.0\Lambda.csproj.CoreCompileInputs.cache
+C:\Users\22386773809\backend\Lambda\obj\Debug\netcoreapp2.0\Lambda.AssemblyInfoInputs.cache
+C:\Users\22386773809\backend\Lambda\obj\Debug\netcoreapp2.0\Lambda.AssemblyInfo.cs
+C:\Users\22386773809\backend\Lambda\obj\Debug\netcoreapp2.0\Lambda.dll
+C:\Users\22386773809\backend\Lambda\obj\Debug\netcoreapp2.0\Lambda.pdb
